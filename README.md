@@ -20,5 +20,9 @@ Rules:
 2. Har bir loyihaga "Case Study" (tahlil) yozish.
 3. O'rganish materiallarini ingliz tilida o'qish.
 
-Start date: 15.02.2026
+Start date: 14.02.2026
 Current Status: Tayyorgarlik bosqichi.
+
+Finish date: 15.05.2026
+
+Pending status: Junior++
